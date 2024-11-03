@@ -2,7 +2,9 @@
 
 Perkenalkan Nama Saya **Husni Adam Ramadhan**.\
 ..
-<!--Saya Mahasiswa Pendidikan Teknik Informatika dan Komputer, saya tertarik dengan **cloud computing**.--> 
+- 🎓 Saya adalah Mahasiswa Pendidikan Teknik Informatika dan Komputer.
+- 🌐 Saya aktif berpartisipasi di komunitas dan pelatihan teknologi seperti #JuaraGCP.
+- 🚀 Minat saya meliputi **Pembelajaran Mesin (ML)**, **Backend Development**, dan **Cloud Computing**.
 
 ### Github Statistic
 <p align="left">
